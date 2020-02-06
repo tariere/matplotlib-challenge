@@ -1,6 +1,5 @@
 # matplotlib-challenge
-![mouse](/Pymaceuticals/Images/mice.png)
-
+![intro](/Pymaceuticals/Images/mice.png)
 
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've since joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego, CA. Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -9,12 +8,15 @@ As their Chief Data Analyst, you've been given access to the complete data from 
 To do this you are tasked with:
 
 * Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
-![]()
+![intro](/Pymaceuticals/Images/treatment.png)
 
 * Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+![intro](/Pymaceuticals/Images/spread.png)
 
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+![intro](/Pymaceuticals/Images/survival.png)
 
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+![intro](/Pymaceuticals/Images/change.png)
 
 * Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
