@@ -11,6 +11,7 @@ To do this you are tasked with:
 ![treatment](/Pymaceuticals/Images/treatment.png)
 
 * Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+
 ![spread](/Pymaceuticals/Images/spread.png)
 
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
